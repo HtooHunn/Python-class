@@ -70,43 +70,8 @@ public class CrustBean implements Serializable{
 		return crustTypeId;
 	}
 
-	public void setCrustTypeId(Integer crustTypeId) {
-		this.crustTypeId = crustTypeId;
-	}
+	
 
-	public String getCrustTypeName() {
-		return crustTypeName;
-	}
-
-	public void setCrustTypeName(String crustTypeName) {
-		this.crustTypeName = crustTypeName;
-	}
-
-	public Integer getMaterialsId() {
-		return materialsId;
-	}
-
-	public void setMaterialsId(Integer materialsId) {
-		this.materialsId = materialsId;
-	}
-
-	public double getQuantity() {
-		return quantity;
-	}
-
-	public void setQuantity(double quantity) {
-		this.quantity = quantity;
-	}
-
-	public Integer getUnitPrice() {
-		return unitPrice;
-	}
-
-	public void setUnitPrice(Integer unitPrice) {
-		this.unitPrice = unitPrice;
-	}
-
-}
 ```
 ```c#
 (display-battery-mode 1)
@@ -157,6 +122,7 @@ public class CrustBean implements Serializable{
 ![alt_lunox](https://pm1.narvii.com/7433/c9d9e67cb050302f89214478c1584857cfa3368fr1-1242-771v2_hq.jpg)
 
 <img src="https://www.thecinemaholic.com/wp-content/uploads/2018/07/Death-Note-release-date-1024x500.jpg" alt="death note" width="193" height="130">
+<img src="https://pm1.narvii.com/7433/c9d9e67cb050302f89214478c1584857cfa3368fr1-1242-771v2_hq.jpg" alt="lunox" width="300" height="200">
 
                                                                                                                                                 
 
