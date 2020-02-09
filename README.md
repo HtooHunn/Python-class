@@ -8,7 +8,7 @@ Numpy is A Python Library for dealing with numerical useful python package.
 
 Use the Package manager [numpy](https://pip.pypa.io/en/stable/) to install numpy package.[Google](google.com)Press Facebook
 [Facebook](www.facebook.com)
-[]()
+[Python](https://www.python.org/)
 
 ```bash
 pip install numpy
@@ -64,5 +64,5 @@ Please make sure to update tests as appropirate.
 !character
 #string
 ```
-
+[Htoo Hunn](https://www.facebook.com/profile.php?id=100012260919102)
 [MIT](https://choosealicense.com/licenses/mit/)
